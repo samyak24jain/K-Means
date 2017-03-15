@@ -1,3 +1,3 @@
 # K-Means
 
-Python implementation of K-Means algorithm.
+A Python implementation of K-Means Clustering algorithm.
